@@ -54,7 +54,7 @@ infosys-placement-preparation-2026/
 
 ---
 
-## 🏷️ Tap Academy-Style Module Organization
+## 🏷️ Module Organization
 
 Inside every module folder, there is an interactive `README.md` tracking dashboard and individual question subdirectories:
 
